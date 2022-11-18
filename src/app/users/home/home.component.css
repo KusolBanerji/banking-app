@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    display: flex;
+    background: white;
+    border-bottom: 10px;
+}
+.amount {
+    width: 50%;
+}
+
+p{
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.card{
+    margin-top: 1%;
+}
+.card-text{
+    font-size:19px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+th, td {
+
+    font-size: 18px;
+    font-weight: 600;
+ }
